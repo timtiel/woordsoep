@@ -1,0 +1,14 @@
+# Qt-installatie en Python-hulpmiddelen
+.qt/
+.venv/
+__pycache__/
+*.pyc
+aqtinstall.log
+
+# Testartikelen (screenshots van het testbed)
+tools/testbed/_*.png
+
+# Besturingssysteem-rommel
+Thumbs.db
+Desktop.ini
+.DS_Store

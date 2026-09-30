@@ -1,0 +1,8 @@
+{
+    "name": "Woordsoep",
+    "id": "woordspel",
+    "entry": "/ui/Main.qml",
+    "loadsBackend": false,
+    "supportsScaling": true,
+    "canHaveMultipleFrontends": true
+}

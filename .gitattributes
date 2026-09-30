@@ -1,0 +1,3 @@
+# Regeleindes normaliseren; shellscripts blijven LF (voor Linux/macOS).
+* text=auto
+*.sh text eol=lf

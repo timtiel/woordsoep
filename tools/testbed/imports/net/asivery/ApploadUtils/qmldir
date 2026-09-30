@@ -1,0 +1,2 @@
+module net.asivery.ApploadUtils
+singleton ApploadUtils 1.0 ApploadUtils.qml

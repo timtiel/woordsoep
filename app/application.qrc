@@ -1,0 +1,18 @@
+<RCC>
+    <qresource>
+        <file>ui/Main.qml</file>
+        <file>ui/Woordzoeker.qml</file>
+        <file>ui/Woordle.qml</file>
+        <file>ui/Galgje.qml</file>
+        <file>ui/Letterhussel.qml</file>
+        <file>ui/Woordbouwer.qml</file>
+        <file>ui/Woordladder.qml</file>
+        <file>ui/Kb.qml</file>
+        <file>ui/KeyCap.qml</file>
+        <file>ui/WoordzoekerLogic.js</file>
+        <file>ui/WoordleLogic.js</file>
+        <file>ui/Store.js</file>
+        <file>ui/WoordbouwerPuzzles.js</file>
+        <file>ui/WoordladderPuzzles.js</file>
+    </qresource>
+</RCC>
